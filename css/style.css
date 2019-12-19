@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+article{
+    padding-top: 1%;
+    width: 100%;
+}
+nav{
+    background-color: #bebef87c;
+    width: 90%;
+    border-radius: 10px;   
+}
+nav li{
+    text-decoration: none;
+    text-transform: none;
+    display: inline;
+}
+
+nav li a{
+    padding: 0 20px 0 0;
+    color: #1d1df396;
+}
+.form{
+    width: 30%;
+    height: 100%;
+    background-color: #c7c5b6;
+    border-radius: 5px;
+    text-align: left;
+    margin:5% 0 0 35%;
+}
+input{
+    width: 99%;
+    border-radius: 5px;
+}
+button{
+    margin-top: 10px;
+    width: 50%;
+    background-color: #b3edff50;
+}
